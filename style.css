@@ -1,0 +1,23 @@
+.section4 {
+  margin: 10px;
+}
+
+button {
+  margin: 10px;
+  width: 200px;
+  height: 50px;
+  font-size: 16px;
+}
+
+form {
+  margin: 10px;
+}
+
+label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+input, button {
+  margin-bottom: 10px;
+}
